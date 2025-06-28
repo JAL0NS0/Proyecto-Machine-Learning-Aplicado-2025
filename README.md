@@ -11,8 +11,8 @@ Para que funcione correctamente es necesario subir los datos de: "data_titanic_p
 
 Para que funcione correctamente es necesario subir los archivos:
 
-svm_svm_C=2.5_kernel=rbf.pkl
-scaler_titanic.pkl
-tree_tree_depth=18_split=3_random=25.pkl
-regLog_logReg_lr=0.5_reg=0.5_penalty=l2_batch=30_iter1000.npy
-nb_naiveBayes_mix_s1e-06_vs1e-06.pkl
+- svm_svm_C=2.5_kernel=rbf.pkl
+- scaler_titanic.pkl
+- tree_tree_depth=18_split=3_random=25.pkl
+- regLog_logReg_lr=0.5_reg=0.5_penalty=l2_batch=30_iter1000.npy
+- nb_naiveBayes_mix_s1e-06_vs1e-06.pkl
