@@ -7,7 +7,7 @@ Joaquin Alonso Marroquin Amaya - 20004254
 Para que funcione correctamente es necesario subir los datos de: "data_titanic_proyecto.csv"
 
 ### Parte 2: Deployment , inferencia y predicción
-[Deployment Google Colba](https://colab.research.google.com/drive/1czONLBPmeAM3pAcD8ODHPJ_GEZf_g3tx?usp=sharing)
+[Deployment Google Colab](https://colab.research.google.com/drive/1czONLBPmeAM3pAcD8ODHPJ_GEZf_g3tx?usp=sharing)
 
 Para que funcione correctamente es necesario subir los archivos:
 
